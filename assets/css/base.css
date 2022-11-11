@@ -72,9 +72,8 @@ h1 {
     font-size: 18px;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background: linear-gradient(90deg, hsla(167, 57%, 48%, 1) 0%, hsla(112, 72%, 62%, 1) 100%);
+    background-image: linear-gradient(225deg, #ff7d00 0, #ff6b05 12.5%, #ff581b 25%, #fa4426 37.5%, #ea2c2c 50%, #d90b30 62.5%, #c90034 75%, #ba0037 87.5%, #ac003b 100%);
     border: none;
-    border-radius: 10px;
     transition: 0.5s;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
